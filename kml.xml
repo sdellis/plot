@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Office">
+          <value>
+            Headquarters
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            1600 Amphitheater Parkway
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+            Mountain View
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+            CA
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            94043
+          </value>
+        </Data>
+        <Data name="Phone">
+          <value>
+            650-253-0000
+          </value>
+        </Data>
+        <Data name="Fax">
+          <value>
+            650-253-0001
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -122.081783,37.423111
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
